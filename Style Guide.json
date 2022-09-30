@@ -592,10 +592,6 @@
     "montserrat": {
       "value": "Montserrat",
       "type": "fontFamilies"
-    },
-    "font-awesome-6-pro": {
-      "value": "Font Awesome 6 Pro",
-      "type": "fontFamilies"
     }
   },
   "fontWeights": {
@@ -626,34 +622,6 @@
     "font-awesome-6-pro-6": {
       "value": "Solid",
       "type": "fontWeights"
-    }
-  },
-  "letterSpacing": {
-    "0": {
-      "value": "1%",
-      "type": "letterSpacing"
-    },
-    "1": {
-      "value": "0%",
-      "type": "letterSpacing"
-    },
-    "2": {
-      "value": "0",
-      "type": "letterSpacing"
-    }
-  },
-  "paragraphSpacing": {
-    "0": {
-      "value": "0",
-      "type": "paragraphSpacing"
-    },
-    "1": {
-      "value": "2",
-      "type": "paragraphSpacing"
-    },
-    "2": {
-      "value": "60",
-      "type": "paragraphSpacing"
     }
   },
   "Heading": {
@@ -1078,22 +1046,6 @@
         "type": "typography",
         "description": "Home"
       }
-    }
-  },
-  "textCase": {
-    "none": {
-      "value": "none",
-      "type": "textCase"
-    },
-    "uppercase": {
-      "value": "uppercase",
-      "type": "textCase"
-    }
-  },
-  "textDecoration": {
-    "none": {
-      "value": "none",
-      "type": "textDecoration"
     }
   }
 }
