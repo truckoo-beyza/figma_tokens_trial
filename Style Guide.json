@@ -66,9 +66,9 @@
       "description": "#70BB0B"
     },
     "error": {
-      "value": "#ff313d",
+      "value": "#DC2626",
       "type": "color",
-      "description": "#FF313D"
+      "description": "DC2626 - Shades/600\n"
     },
     "white": {
       "value": "#ffffff",
@@ -275,19 +275,19 @@
   "Error": {
     "States": {
       "Default": {
-        "value": "#ff313d",
-        "type": "color",
-        "description": "#FF313D"
-      },
-      "Hover": {
-        "value": "#dc2626",
+        "value": "#DC2626",
         "type": "color",
         "description": "#DC2626"
       },
-      "Focus": {
-        "value": "#be1f1f",
+      "Hover": {
+        "value": "#BE1F1F",
         "type": "color",
         "description": "#BE1F1F"
+      },
+      "Focus": {
+        "value": "#B10009",
+        "type": "color",
+        "description": "#B10009"
       },
       "Disabled": {
         "value": "#ffcbc2",
